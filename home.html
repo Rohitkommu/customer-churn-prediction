@@ -1,0 +1,38 @@
+<html>
+    <head>
+        <style>
+            body{
+                background-color:white;
+            }
+            h2{
+                color:black;
+            }
+            h1{
+                color:black
+            }
+        </style>
+    </head>
+    <body>
+        <div class="login">
+            <center>
+                <h1>phishing domain detection</h1>
+                <h2>enter url and verify</h2>
+                <form action="{{ url_for('predict')}}"method="POST">
+                    <input type="text" name="name">
+                    <input type="text" name="age">
+                    <input type="text" name="location">
+                    <input type="text" name="pincode">
+                    <input type="text" name="Subscription_Length_Months">
+                    <input type="text" name="Total_Usage_GB">
+                    
+                <button type="submit" class="btn btn-primary btn-block btn-large">predict</button>   
+                </form>
+            </center>
+        </div>
+        <center>
+            <h2>
+                {{prediction_text}}
+            </h2>
+        </center>
+    </body>
+</html>
