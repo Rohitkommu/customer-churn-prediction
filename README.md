@@ -9,7 +9,8 @@
 ![ch1](https://github.com/Rohitkommu/customer-churn-prediction/assets/123623873/0326fa9a-8033-4f3b-99fa-8a13e100bd95)
 
 #### General process
-![image](https://github.com/Rohitkommu/customer-churn-prediction/assets/123623873/9685c713-6a13-4785-922d-622ac3439e9b)
+![image](https://github.com/Rohitkommu/customer-churn-prediction/assets/123623873/7a1ab852-8f79-4ca2-bfbd-698e7e00dda9)
+
 
 
 
