@@ -6,3 +6,5 @@
 #### 4. Negative customer experience
 
 ### Aim is to Develop a machine learning model to predict customer churn based on historical customer data.
+![ch1](https://github.com/Rohitkommu/customer-churn-prediction/assets/123623873/bcaf3eb4-4854-4825-b259-831db7325fe3)
+
